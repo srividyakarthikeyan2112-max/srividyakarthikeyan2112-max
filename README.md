@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I’m Srividya Karthikeyan ! <br><br>I enjoy building real-world solutions that combine intelligent systems with secure and scalable architecture.<br><br>What I Do<br>🔐 Interested in Cybersecurity & Secure System Design<br>🤖 Build AI-powered applications using ML frameworks<br>🌐 Develop full-stack web & mobile apps<br>⛓️ Explore Web3, Blockchain & Smart Contracts<br>⚙️ Work with automation systems (CRM/HRM workflows)<br><br>🧠 Tech Stack<br>Languages: Java, Python <br>Frontend: React.js, Tailwind CSS, Flutter<br>Backend: Node.js, Express.js<br>Databases: MySQL, MongoDB, Firebase<br>Tools & Concepts: REST APIs, WebSockets, TensorFlow Lite, MediaPipe
-
+Hi, I’m Srividya Karthikeyan ! <br><br>I enjoy building real-world solutions that combine intelligent systems with secure and scalable architecture.<br><br>What I Do<br>🔐 Interested in Cybersecurity & Secure System Design<br>🤖 Build AI-powered applications using ML frameworks<br>🌐 Develop full-stack web & mobile apps<br>⛓️ Explore Web3, Blockchain & Smart Contracts<br>⚙️ Work with automation systems (CRM/HRM workflows)<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/K.Srividya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srividyakarthikeyan2112@gmail.com) 
